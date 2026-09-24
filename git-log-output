@@ -1,0 +1,39 @@
+commit add7a7215ab96b4294cc43624edf98180a2b181a
+Author: Riley <rls38@njit.edu>
+Date:   Thu Sep 24 03:32:25 2026 -0400
+
+    Reapply "added new text File to Experimental branch"
+    
+    This reverts commit 09f4f5173a0959ad1be1899d9f0449829448c286.
+
+commit 09f4f5173a0959ad1be1899d9f0449829448c286
+Author: Riley <rls38@njit.edu>
+Date:   Thu Sep 24 03:32:09 2026 -0400
+
+    Revert "added new text File to Experimental branch"
+    
+    This reverts commit 06e4c0f0e75372d3a00b2500263f1b664edbeb85.
+
+commit 06e4c0f0e75372d3a00b2500263f1b664edbeb85
+Author: Riley <rls38@njit.edu>
+Date:   Thu Sep 24 03:31:14 2026 -0400
+
+    added new text File to Experimental branch
+
+commit 46c21f8033751e2f6d89b7fd5b9e6c06f72f700c
+Author: Riley <rls38@njit.edu>
+Date:   Thu Sep 24 03:28:52 2026 -0400
+
+    Make additional change on the branch
+
+commit 95f0ef1075d575ff468188c12793e388a768a338
+Author: Riley <rls38@njit.edu>
+Date:   Thu Sep 24 03:16:21 2026 -0400
+
+    added a commit at the bottom of the hostname file
+
+commit 0b37ec7f8add4101b0a1190a52e5be464bf4821f
+Author: Riley <rls38@njit.edu>
+Date:   Thu Sep 24 03:06:06 2026 -0400
+
+    Added copyed files from Lab_3 into Git repo
